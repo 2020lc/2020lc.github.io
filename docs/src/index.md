@@ -19,6 +19,9 @@ features:
   - title: typescript
     details: ts用法，配置等
     link: 'typescript'
+  - title: react
+    details: react用法等
+    link: 'react'
   # - title: Feature B
   #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   # - title: Feature C
