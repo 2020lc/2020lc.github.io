@@ -15,7 +15,7 @@ export default defineConfig({
     },
     nav: [
       { text: '首页', link: '/' },
-      // { text: '前端', link: '/markdown-examples' },
+      { text: '阅读', link: '/read' },
       // { text: '服务端', link: '/' },
     ],
     sidebar: sidebarCfg,

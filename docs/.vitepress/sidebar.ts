@@ -25,5 +25,11 @@ const sidebarCfg = {
       link: '/react/',
     },
   ],
+  '/util/': [
+    {
+      text: 'Util',
+      link: '/util/',
+    },
+  ],
 };
 export default sidebarCfg;

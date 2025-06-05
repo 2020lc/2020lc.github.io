@@ -22,6 +22,9 @@ features:
   - title: react
     details: react用法等
     link: 'react'
+  - title: util
+    details: 常用的工具函数
+    link: 'util'
   # - title: Feature B
   #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   # - title: Feature C
